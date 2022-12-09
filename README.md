@@ -1,3 +1,3 @@
 # Burton-Stats
 
-npm i
+Installation: npm i
