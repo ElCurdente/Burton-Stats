@@ -1,1 +1,3 @@
 # Burton-Stats
+
+npm i
