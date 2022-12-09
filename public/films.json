@@ -1,0 +1,134 @@
+{
+    "name": "Total",
+    "color": "hsl(262, 70%, 50%)",
+    "children": [
+      {
+        "name": "Beetlejuice",
+        "color": "hsl(25, 70%, 50%)",
+        "value": 2
+      },
+      {
+        "name": "Charlie et la Chocolaterie",
+        "color": "hsl(238, 70%, 50%)",
+        "value": 9,
+        "children": [
+          {
+            "name": "110 000 friandises",
+            "color": "hsl(238, 70%, 50%)",
+            "value": 1
+          },
+          {
+            "name": "475 M$ au Box Office",
+            "color": "hsl(238, 70%, 50%)",
+            "value": 1
+          },
+          {
+            "name": "1850 tablettes de chocolat",
+            "color": "hsl(238, 70%, 50%)",
+            "value": 1
+          },
+          {
+            "name": "165 Oompa Loompas",
+            "color": "hsl(238, 70%, 50%)",
+            "value": 1
+            
+          }
+        ]
+      },
+      {
+        "name": "Big Fish",
+        "color": "hsl(172, 70%, 50%)",
+        "value": 1,
+        "loc": 1
+      },
+      {
+        "name": "Edward aux mains d'argent",
+        "color": "hsl(309, 70%, 50%)",
+        "value": 2,
+        "children": [
+          {
+            "name": "12 nominations différentes",
+            "color": "hsl(309, 70%, 50%)",
+            "value": 1
+          },
+          {
+            "name": "85 M$ au Box Office",
+            "color": "hsl(309, 70%, 50%)",
+            "value": 1
+          },
+          {
+            "name": "Top 1 'glauque' de la classe",
+            "color": "hsl(309, 70%, 50%)",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "La Planète des singes",
+        "color": "hsl(331, 70%, 50%)",
+        "value": 1,
+        "loc": 1
+      },
+      {
+        "name": "Les Noces funèbres",
+        "color": "hsl(140, 70%, 50%)",
+        "value": 0,
+        "children": [
+          {
+            "name": "117 M$ au Box Office",
+            "color": "hsl(140, 70%, 50%)",
+            "value": 1
+          },
+          {
+            "name": "5 nominations",
+            "color": "hsl(140, 70%, 50%)",
+            "value": 1
+          },
+          {
+            "name": "3 récompenses",
+            "color": "hsl(140, 70%, 50%)",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "L'Étrange Noël de monsieur Jack",
+        "color": "hsl(149, 70%, 50%)",
+        "value": 0,
+        "children": [
+          {
+            "name": "230 setdesigns",
+            "color": "hsl(309, 70%, 50%)",
+            "value": 1
+          },
+          {
+            "name": "400 têtes de Jack crées",
+            "color": "hsl(309, 70%, 50%)",
+            "value": 1
+          },
+          {
+            "name": "60 sculpturesde personnages",
+            "color": "hsl(309, 70%, 50%)",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Alice au pays des merveilles",
+        "color": "hsl(149, 70%, 50%)",
+        "value": 2,
+        "children": [
+          {
+            "name": "175 M$ au Box Office",
+            "color": "hsl(149, 70%, 50%)",
+            "value": 1
+          },
+          {
+            "name": "2 Oscars",
+            "color": "hsl(149, 70%, 50%)",
+            "value": 1
+          }
+        ]
+      }
+    ]
+  }

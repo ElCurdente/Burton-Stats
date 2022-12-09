@@ -1,0 +1,48 @@
+[
+    {
+      "perso": "Charlie Bucket",
+      "score": 5,
+      "scoreColor": "hsl(319, 70%, 50%)"
+    },
+    {
+      "perso": "Oompa loompa",
+      "score": 5,
+      "scoreColor": "hsl(319, 70%, 50%)"
+    },
+    {
+      "perso": "Augustus gloop",
+      "score": 5,
+      "scoreColor": "hsl(319, 70%, 50%)"
+    },
+    {
+      "perso": "Frankenweenie",
+      "score": 5,
+      "scoreColor": "hsl(319, 70%, 50%)"
+    },
+    {
+      "perso": "La reine de coeur",
+      "score": 5,
+      "scoreColor": "hsl(319, 70%, 50%)"
+    },
+    {
+      "perso": "Jack skellington",
+      "score": 10,
+      "scoreColor": "hsl(319, 70%, 50%)"
+    },
+    {
+      "perso": "Edward aux mains d’argent",
+      "score": 15,
+      "scoreColor": "hsl(319, 70%, 50%)"
+    },
+    {
+      "perso": "Le chapelier fou",
+      "score": 20,
+      "scoreColor": "hsl(319, 70%, 50%)"
+    },
+    {
+      "perso": "Willy Wonka",
+      "score": 30,
+      "scoreColor": "hsl(319, 70%, 50%)"
+    }
+    
+  ]
